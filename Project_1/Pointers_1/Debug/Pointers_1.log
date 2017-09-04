@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Pointers_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  XmlParser.cpp
+  xmlElementParts.cpp
+  XmlElement.cpp
+  XmlDocument.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  PersistHelp.cpp
+  NoSql.cpp
+  Generating Code...
+c:\users\prann\desktop\github projects\project_1\pointers_1\strhelper.h(46): warning C4172: returning address of local variable or temporary
+  Pointers_1.vcxproj -> C:\Users\prann\Desktop\Github Projects\Project_1\Debug\NoSqlDB.lib
